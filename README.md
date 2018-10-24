@@ -1,2 +1,3 @@
 # git-example
-A gentle introduction to git
+Hey everyone!
+This is a repository containing a short git demo
